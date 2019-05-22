@@ -19,6 +19,8 @@
 
 ​	`./source`
 
+ps.文件夹中的`file.c`和`test.c`均为测试代码
+
 ### 调试说明
 
 ​	`gdb source`
